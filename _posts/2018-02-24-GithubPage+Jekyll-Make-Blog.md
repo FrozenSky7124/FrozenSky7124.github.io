@@ -106,8 +106,6 @@ author: FrozenSky
 
 > ~$ git commit -m "XXXXXXXX"
 
-- 稍等片刻，GitHub Page 
-
-服务器就会将我们上传的文件进行转换，变成静态网页。
+稍等片刻，GitHubPage服务器就会将我们上传的文件进行转换，变成静态网页。
 
 通过[YourAccountName].github.io 就可以正常访问了。
