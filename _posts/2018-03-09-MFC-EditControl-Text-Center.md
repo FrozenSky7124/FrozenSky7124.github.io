@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "MFC EditControl控件文字垂直居中显示"
+title: "MFC EditCtrl控件文字垂直居中"
 categories: C++
-tags: MFC EditControl 垂直居中
+tags: MFC EditCtrl 垂直居中
 author: FrozenSky
 ---
 
