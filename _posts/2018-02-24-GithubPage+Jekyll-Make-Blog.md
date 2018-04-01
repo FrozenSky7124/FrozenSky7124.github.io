@@ -38,11 +38,11 @@ author: FrozenSky
 
 - 此时会报错，提示缺少插件：jekyll-paginate
 
-> Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
->
-> Dependency Error: Yikes! It looks like you don't have jekyll-paginate or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. The full error message from Ruby is: 'cannot load such file -- jekyll-paginate' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/! 
->
-> jekyll 3.7.2 | Error:  **jekyll-paginate**
+```
+Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+Dependency Error: Yikes! It looks like you don't have jekyll-paginate or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. The full error message from Ruby is: 'cannot load such file -- jekyll-paginate' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/! 
+jekyll 3.7.2 | Error:  **jekyll-paginate**
+```
 
 - 主题的说明中也提到了，因为新版Jekyll没有集成Paginate插件，所以需要手动安装插件到环境中
 
